@@ -28,6 +28,8 @@ hs_err_pid*
 
 /mediaContainer/target
 
+/target
+
 /mediaContainer/src/main/resources/db/migration/V10__Dump_data_from_bgg.sql
 
 *.idea
